@@ -1,23 +1,23 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: Guillaume <strong>Moreau</strong>
+description: <a href="https://www.ec-nantes.fr">Ecole Centrale Nantes</a>, <a href="http://www.aau.archi.fr">AAU lab</a> and <a href="https://team.inria.fr/hybrid/">INRIA Hybrid</a> team.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Computer Science & Mathematics Dept. Office E212</p>
+    <p>rue de la Noë</p>
+    <p>44330 Nantes, France</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am professor in Computer Science at Ecole Centrale Nantes, in France. My research interests are Virtual Augmented Reality, within the [AAU](http://aau.archi.fr) lab. I am also member of the [INRIA Hybrid](https://team.inria.fr/hybrid/) team. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before this, I obtained an engineering degree in Computer Science in 1995 from [ENSIEE](http://www.ensiee.fr). As a civil servant from [ENS Rennes](http://www.ens-rennes.fr) I did my PhD studies at [IRISA](http://www.irisa.fr) lab where I graduated in 1998. After my *industrial* postdoc in the same team, I obtained a position at [Mines Paris](http://www.mines-paristech.fr) (1999-2002). Eventually I moved to [Centrale Nantes](http://www.ec-nantes.fr) as an Associate Professor in 2002. I became full professor in 2011 after obtaining my HDR in 2009.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+From 2006 to 2012, I served as the CIO (Chief Information Officer) of Centrale Nantes. Then I became the head of the Computer Science and Mathematics Department until 2016 when I was appointed as the Dean of Studies, position I have occupied until the end 2019.
