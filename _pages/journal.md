@@ -1,7 +1,7 @@
 ---
 title: Journal papers
 description: Refereed journal papers
-layout: default
+layout: page
 permalink: /journal/
 hide: true
 ---

@@ -8,7 +8,7 @@ years: [2019, 2018, 2017]
 
 Other lists:
 
-  - sorted by type: [journal papers](../journal/)
+  - sorted by type: [journal papers](../journal/), [conference papers](../conferences/), [books](../books/), [book chapters](../bookchapters/)
   - [sorted by year](../allpubyear/)
 
 
