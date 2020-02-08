@@ -1,31 +1,29 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Job! INRIA Hybrid and AAU Postdoc on AR for Neurodegenerative Diseases
+date: 2020-02-07
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+
+Job: joint postdoc with INRIA Hybrid and AAU: developing and testing Augmented Reality based aids for Neurodegenerative Diseases
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Dans le cadre d'un projet de recherche collaboratif entre le CHU de Rennes, l'équipe Hybrid Inria et l'équipe CRENAU de Centrale Nantes, il est recherché un post-doctorant correspondant à la fiche de poste ci-dessous, qui serait formé en RV et si possible en RA.
+Les contacts sont :
+- le Dr. Mélanie Cogné, Service de Médecine physique et de réadaptation, Rennes (melanie.cogne@chu-rennes.fr).
+- le Professeur Guillaume Moreau, Ecole Centrale de Nantes (guillaume.moreau@ec-nantes.fr).
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+Job description
+Project (Short presentation): Augmented Reality is a rapidly expanding field, but is not yet applied to the field of Neurodegenerative Diseases. Our objective is to create an innovative Augmented Reality tool in order to reduce activities’ limitations in this population, and to verify its safety and its tolerability. Conception of an Augmented Reality system will be the core of the postdoctoral work in this project.
 
-***
+Place of work: Centrale Nantes, 1 rue de la Noë, 44321 Nantes, France
+Candidate: Should hold a PhD in Computer Science/Neurosciences. He/she should demonstrate relevant experience with programming (MATLAB, R, Python...) and with the conception of Virtual Reality and/or Augmented Reality tools.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Starting date: Spring 2020
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+Duration: 1 year (possible extension)
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Interested candidates are required to send their applications including CV with publication list, a summary of their research interests together with names and contact information of at least two references to melanie.cogne@chu-rennes.fr and guillaume.moreau@ec-nantes.fr
