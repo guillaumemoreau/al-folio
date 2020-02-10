@@ -24,6 +24,9 @@ layout: default
 
 - [Encadrement doctoral](../phd_advised/)
 - [Participation à des jurys de thèse](../jurys-de-these/)
+- [Contrats de recherche](../contrats)
+
+
 
 
   [662eb334]: http://www.irisa.fr "IRISA"

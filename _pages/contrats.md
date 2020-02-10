@@ -1,0 +1,18 @@
+---
+layout: page
+title: Contrats de recherche
+permalink: /contrats/
+hide: true
+---
+
+<ul>
+{% for contrat in site.data.contrats %}
+<li>
+<b>{{ contrat.nom }}</b> ({{contrat.debut}}-{{contrat.fin}})
+{% if contrat.type %}financement : {{ contrat.type }}{% endif %}
+montant équipe : {{ contrat.partlabo | replace: '\euro', '€'}}, {% if contrat.total != 0 and contrat.total != contrat.partlabo %} montant total : {{ contrat.total | replace: '\euro', '€'}} {% endif %}
+{% if contrat.partenaires %}partenaires : {{ contrat.partenaires }}. {% endif %}
+<em>{{ contrat.contenu}}</em>.
+</li>
+{% endfor %}
+</ul>
