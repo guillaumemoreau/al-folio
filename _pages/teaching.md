@@ -1,10 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I mainly teach Computer Science and Virtual Reality at Centrale Nantes. All course material are available on [Hippocampus](hippocampus.ec-nantes.fr).
 
-Organize your courses by years, topics, or universities, however you like!
+Recent courses include:
+
+- C++ programming in the Virtual Reality major
+- Software methods and quality in the Virtual Reality major
+- Introduction to Computer Graphics in the Virtual Reality major
+- Graph theory and algorithms in the Computer Science major
+- Databases for apprentice and fast track students ([course material on Github](https://github.com/guillaumemoreau/db-course))
